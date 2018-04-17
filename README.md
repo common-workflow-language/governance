@@ -48,3 +48,17 @@ an issue that Conservancy wants to make sure the project is aware.
 # Contacting just the CWL leadership team
 
 cwl-leadership@googlegroups.com
+
+# Finances
+
+CWL leadership team members can email
+<commonworkflowlanguage@sfconservancy.org> to request reports on our
+funds in Conservancy funds, or ask questions about the existing balance
+and/or expenses. 
+
+When one has project expenses that should be
+reimbursed or paid, please send (or ask the reimbursement-seeker to
+send) the full details to <accounts-payable@tix.sfconservancy.org>.  If
+the expense hasn't already been approved by the project, and/or Accounts
+Payable hasn't been given a copy of that approval, CC'ing
+<commonworkflowlanguage@sfconservancy.org> on the request is a good idea.
