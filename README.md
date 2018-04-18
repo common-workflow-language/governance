@@ -71,3 +71,11 @@ The Ledger records all of the money going in or out of CWL’s fund. It has all 
 invoices Conservancy sends out on behalf of CWL, expense reports and receipts for expenses, etc.
 
 Access to these records is available to any member of the CWL leadership team.
+
+As of 2018-04-18 the fingerprints for the records server are
+```
+1024 SHA256:Jlu69oskv1cKbB+oXh2fX9N4lkGTcLPxmG316SLis3A root@localhost (DSA)
+256 SHA256:fQELcImpIk7onyZ5CD19p/XQtgNa16f7EEyMh/Jqet8 root@localhost (ECDSA)
+256 SHA256:kPcWSIy5fkKONHqRAu3PY7yAQ/CNwQ5j22NrYPaZc8w root@localhost (ED25519)
+2048 SHA256:UFk7QxW3IhennfisJjtTpwrTEH1zWrKwDFLgnb7CN/0 root@localhost (RSA)
+```
