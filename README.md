@@ -27,7 +27,7 @@ Language" in the memo field.  Checks should then be mailed to:
 
 ## Donations by wire
 
-We can accept donations via wire, but we
+We can accept donations via wire in USD, EUR, GBP, and CAD, but we
 usually send the the instructions on a case-by-case basis as they are
 different depending on the country of origin and currency.  Please just
 note that donors wishing to send a wire contact
@@ -62,3 +62,12 @@ send) the full details to <accounts-payable@tix.sfconservancy.org>.  If
 the expense hasn't already been approved by the project, and/or Accounts
 Payable hasn't been given a copy of that approval, CC'ing
 <commonworkflowlanguage@sfconservancy.org> on the request is a good idea.
+
+# Records held at Conservancy
+
+Conservancy stores records on behalf of CWL which are managed via subversion. The are primarily legal and financial records.
+Included is the Fiscal Sponsorship Agreement, and copies of grant proposals. This is also where the Ledger file is located.
+The Ledger records all of the money going in or out of CWL’s fund. It has all the supporting documentation for those records:
+invoices Conservancy sends out on behalf of CWL, expense reports and receipts for expenses, etc.
+
+Access to these records is available to any member of the CWL leadership team.
