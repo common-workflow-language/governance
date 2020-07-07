@@ -16,7 +16,7 @@ We can accept check donations drawn in USD
 from banks in the USA. (Donations from banks outside of the US or not in
 USD should be handled by wire).
 
-Ask donors to make the check payable to "Software Freedom
+Make the check payable to "Software Freedom
 Conservancy, Inc." and to place "Directed donation: Common Workflow
 Language" in the memo field.  Checks should then be mailed to:
 
@@ -33,6 +33,9 @@ different depending on the country of origin and currency.  Please just
 note that donors wishing to send a wire contact
 <supporters@tix.sfconservancy.org>.
 
+## Donations by PayPal
+
+Donations can also be made via PayPal in USD via https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z55VS5LBBSZTJ
 
 # Contacting the CWL leadership team & Conservancy
 
