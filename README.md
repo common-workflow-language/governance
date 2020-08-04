@@ -8,6 +8,12 @@ Conflicts of Interest Policy. These policies are
 published at <https://sfconservancy.org/projects/policies/>, with source
 in Git <https://k.sfconservancy.org/policies/>.
 
+# Specification release process
+
+The process of approving and releasing new versions of Common Workflow
+Language and associated specifications is detailed in
+[releases.md](releases.md) .
+
 # Donations
 
 ## Donations by check
@@ -20,9 +26,9 @@ Make the check payable to "Software Freedom
 Conservancy, Inc." and to place "Directed donation: Common Workflow
 Language" in the memo field.  Checks should then be mailed to:
 
-        Software Freedom Conservancy, Inc. 
-        137 Montague ST  STE 380 
-        BROOKLYN, NY 11201 
+        Software Freedom Conservancy, Inc.
+        137 Montague ST  STE 380
+        BROOKLYN, NY 11201
         USA
 
 ## Donations by wire
@@ -57,7 +63,7 @@ cwl-leadership@googlegroups.com
 CWL leadership team members can email
 <commonworkflowlanguage@sfconservancy.org> to request reports on our
 funds in Conservancy funds, or ask questions about the existing balance
-and/or expenses. 
+and/or expenses.
 
 When one has project expenses that should be
 reimbursed or paid, please send (or ask the reimbursement-seeker to
