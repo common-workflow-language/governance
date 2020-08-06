@@ -48,6 +48,9 @@ that expect to make use of Software Freedom Conservancy's non-profit
 status.  Conservancy folks will often CC that address any time there is
 an issue that Conservancy wants to make sure the project is aware.
 
+To update any of the email addresses on this list, the project leader should email sysadmin@tix.sfconservancy.org with 
+`commonworkflowlanguage@sfconservancy.org` in the CC field.
+
 # Contacting just the CWL leadership team
 
 cwl-leadership@googlegroups.com
