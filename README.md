@@ -77,10 +77,9 @@ Payable hasn't been given a copy of that approval, CC'ing
 
 # Records held at Conservancy
 
-Conservancy stores records on behalf of CWL which are managed via subversion. The are primarily legal and financial records.
-Included is the Fiscal Sponsorship Agreement, and copies of grant proposals. This is also where the Ledger file is located.
-The Ledger records all of the money going in or out of CWL’s fund. It has all the supporting documentation for those records:
-invoices Conservancy sends out on behalf of CWL, expense reports and receipts for expenses, etc.
+Conservancy stores records on behalf of CWL which are managed via subversion. The are primarily legal records.
+Included is the Fiscal Sponsorship Agreement, and copies of grant proposals. 
+The ledger of CWL's fund was located here, but as of 2020-05-18 Conservancy has switched to another reporting system. 
 
 Access to these records is available to any member of the CWL leadership team.
 
