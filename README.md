@@ -61,6 +61,10 @@ To update any of the email addresses on this list, the CWL project leader should
 
 cwl-leadership@googlegroups.com
 
+# Contacting employees of Conservancy
+
+They are available much of the time by IRC: ircs://chat.freenode.net:6697/conservany or https://webchat.freenode.net/#conservancy
+
 # Finances
 
 CWL leadership team members can email
