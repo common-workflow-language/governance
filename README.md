@@ -63,7 +63,7 @@ cwl-leadership@googlegroups.com
 
 # Contacting employees of Conservancy
 
-They are available much of the time by IRC: ircs://chat.freenode.net:6697/conservany or https://webchat.freenode.net/#conservancy
+They are available much of the time by IRC: <a href="ircs://chat.freenode.net:6697/conservany">ircs://chat.freenode.net:6697/conservany</a> or https://webchat.freenode.net/#conservancy
 
 # Finances
 
