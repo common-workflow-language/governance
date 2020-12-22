@@ -63,7 +63,15 @@ cwl-leadership@googlegroups.com
 
 # Contacting employees of Conservancy
 
-They are available much of the time by IRC: <a href="ircs://chat.freenode.net:6697/conservany">ircs://chat.freenode.net:6697/conservany</a> or https://webchat.freenode.net/#conservancy
+They are available much of the time by IRC: ircs://chat.freenode.net:6697/conservany
+or https://webchat.freenode.net/#conservancy
+
+If you need to contact Conservancy staff about something related to paying
+someone, email accounts-payable at tix dot sfconservancy dot org. For
+something related to money coming in, like a sponsorship, please email
+accounts-receivable at tix dot sfconservancy dot org. For technical related
+things, email sysadmin at tix dot sfconservancy dot org. For anything
+connected to legal matters, email legal at tix dot sfconservancy dot org.
 
 # Finances
 
