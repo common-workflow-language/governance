@@ -37,7 +37,8 @@ team](https://github.com/common-workflow-language/governance/blob/ddb07b99ae6200
 CWL is a [direct
 project](https://en.wikipedia.org/wiki/Fiscal_sponsorship#Table_comparing_the_models)
 of SFC: CWL is owned by SFC, and the project's work is implemented by
-SFC employees, volunteers, and contractors.
+SFC employees, volunteers, and contractors. Therefore this policy exists to document
+that requirement and how we will manage it.
 
 ## Implementation
 
@@ -48,7 +49,7 @@ SFC.
 
 1.  If a proposal indicates the use of CWL but will *not* be contributing
     substantially to the CWL Project (e.g. code, documentation, tutorials), then
-    **n Proposal approval is needed**.
+    **Proposal approval is needed**.
       * If the proposed grant is funded, please consider adding (if allowed)
         your proposal [to the list of projects](https://github.com/common-workflow-language/cwl-website/blob/main/content/_data/user-gallery.yml)
         using CWL and publicly [announce the funded grant on the CWL forum](https://cwl.discourse.group/c/announcements/6).
