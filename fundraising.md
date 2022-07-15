@@ -16,7 +16,7 @@
 3. Sustaining Sponsor
 
    Requires 2 year commitment at levels indicated below.
-3. Supporting Sponsor
+4. Supporting Sponsor
 
    Requires 1 year commitment at levels indicated below.
 
