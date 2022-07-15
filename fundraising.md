@@ -24,8 +24,8 @@
 ### Sustaining sponsors
 * Listed **prominently** with company logo as ‘sustaining member’ on CWL website 
 * Permission to use CWL **sustaining** member logo on own materials 
-* **Featured** presentation in CWL annual symposium 
-* Promotion of CWL-related events hosted by organization via CWL mailing list / twitter etc 
+* **Featured** presentation in CWL annual symposium. (The presentation will have special promotion reflecting the Sustaining Sponsor status)
+* Promotion of CWL-related events hosted by organization via CWL mailing list / twitter etc, as long as they respect the CWL code of conduct, or equivalent 
 * Promotion of CWL-related Job Advertisements via CWL mailing list / twitter etc
 * Receipt of semi-annual CWL update newsletter 
 
@@ -38,7 +38,7 @@ of membership status.
 * Listed as ‘supporting member’ on CWL website 
 * Permission to use CWL **supporting** member logo on own materials. 
 * Presentation in CWL annual symposium 
-* Promotion of CWL-related events hosted by organization via CWL mailing list / twitter etc 
+* Promotion of CWL-related events hosted by organization via CWL mailing list / twitter etc, as long as they respect the CWL code of conduct, or equivalent 
 * Promotion of CWL-related Job Advertisements via CWL mailing list / twitter etc
 * Receipt of semi-annual CWL update newsletter 
 
