@@ -7,7 +7,7 @@
    Requires 2 year commitment at levels indicated below, must make
    commitment prior to December 31th, 2022 (to have the “Inaugural” title)
    --- only available in 2022/2023. 
-   Rate is only applicable for 2022; additional levels may be added or changed in 2023 onwards.
+   Rate is only applicable for 2022 and 2023; additional levels may be added or changed in 2024 onwards.
 2. Inaugural **Supporting** Sponsor
 
    Requires 1 year commitment at levels indicated below, must make commitment
