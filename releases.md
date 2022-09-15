@@ -29,7 +29,7 @@ Development versions are indicated by taking the MAJOR.MINOR.PATCH of the
 version under development and adding "-devN" to the end, for example
 "-dev1".  The development version should be incremented when making a
 breaking change or when requesting community review of the development
-version.  There is no promise of compatability between "-dev" versions
+version.  There is no promise of compatibility between "-dev" versions
 as a feature may undergo incompatible changes during development.
 
 When the version becomes the newest CWL specification, the "-devN" is

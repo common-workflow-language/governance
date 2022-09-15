@@ -31,8 +31,7 @@
 
 Does not provide:
 * Any special privileges in technical or governance voting
-* Special privileges in letters of support or similar, beyond acknowledgement
-of membership status. 
+* Special privileges in letters of support or similar, beyond acknowledgment of membership status.
 
 ### Supporting sponsors
 * Listed as ‘supporting member’ on CWL website 
@@ -44,10 +43,9 @@ of membership status.
 
 Does not provide:
 * Any special privileges in technical or governance voting
-* Special privileges in letters of support or similar, beyond acknowledgement
-of membership status. 
+* Special privileges in letters of support or similar, beyond acknowledgment of membership status.
 
-## Sponsorshop Levels
+## Sponsorship Levels
 
 Sponsorship may take the form of an unrestricted (tax-deductible for USA
 taxpayers) donation to CWL @ Software Freedom Conservancy in the amounts shown
