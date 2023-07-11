@@ -1,11 +1,11 @@
-# Policty on requesting and/or acquiring grants/funding for/by the CWL Project
+# Policy on requesting and/or acquiring grants/funding related to the CWL Project
 
 ## Policy
 
 It is a requirement of the CWL fiscal sponsor, Software Freedom Conservancy (SFC),
 that all applications by any entity for
-1) funding of the CWL project's work or
-2) in the name of the CWL project
+1) **funding** of the CWL project's work or
+2) **funding** in the name of the CWL project
 must be submitted by SFC **unless** an agreement otherwise has been approved by
 both the CWL Project Leadership Team and SFC.
 
@@ -47,9 +47,11 @@ that involve Common Workflow Language standards (CWL) and the CWL
 Project should seek approval for their proposal from the CWL Leadership team and
 SFC.
 
-1.  If a proposal indicates the use of CWL but will *not* be contributing
-    substantially to the CWL Project (e.g. code, documentation, tutorials), then
-    **Proposal approval is needed**.
+1.  If a proposal
+    a) indicates the use of CWL
+    b) but will *not* be contributing substantially to the CWL Project (e.g. code, documentation, tutorials),
+    c) and is not submitted in the name of the CWL project.
+    then **Proposal approval is not needed**.
       * If the proposed grant is funded, please consider adding (if allowed)
         your proposal [to the list of projects](https://github.com/common-workflow-language/cwl-website/blob/main/content/_data/user-gallery.yml)
         using CWL and publicly [announce the funded grant on the CWL forum](https://cwl.discourse.group/c/announcements/6).
