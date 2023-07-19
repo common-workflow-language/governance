@@ -89,9 +89,7 @@ SFC.
 For all these proposal options, Common Workflow Language should be cited
 using the [proper up-to-date citations](https://www.commonwl.org/specification/#references).
 
-\--
-
-Expectations for CWL Project Lead or delegate
+### Expectations for CWL Project Lead or delegate
 
 1.  Maintain private log of notifications
 
@@ -118,3 +116,42 @@ Recording:
 4.  Work to be done; aspects of the CWL Community Roadmap that overlap/alignment
 
 5.  Expected date of application funding decision
+
+## Non-normative examples:
+
+### Example A
+
+Grant proposal mentions the CWL standards
+("The workflows delivered will be written in the CWL standard format.")
+but otherwise does not mention the CWL project.
+
+In this case, no coordination nor notification is required.
+
+If the proposed grant is funded, please consider adding (if allowed)
+your proposal [to the list of projects](https://github.com/common-workflow-language/cwl-website/blob/main/content/_data/user-gallery.yml)
+using CWL and publicly [announce the funded grant on the CWL forum](https://cwl.discourse.group/c/announcements/6).
+
+### Example B
+
+CWL community members identify funding opportunity to do some of the work of the CWL project.
+
+Then they should contact the CWL Leadership Team to confirm that the opportunity matches the
+CWL Community Roadmap, and together they contact Conservancy to send in the proposal
+from Conservancy. Payments of grant monies would be controlled by Conservancy
+to eligible entities, which can include individuals, companies, and academic institutions.
+required.
+
+### Example C
+
+CWL community members identify funding opportunity to do some of the work of the
+CWL project, but Conservancy is not an eligible recipiant. Maybe USA-based entities
+are not allowed; the entire scope of the funding opportunity is much bigger than the CWL project
+itself; or other requirement is not met.
+
+Like in Example B, the CWL Leadership Team should still be contacted. The CWL Leadership Team
+(or its delegate) will confirm the fit of the proposal to the CWL Community Roadmap
+and will confirm with Conservancy about the eligibility issue. Will Conservancy's
+approval, external entities could apply to do the work of the CWL Project with a
+written Memorandum of Understanding of how the work will be coordinated.
+
+If sub-contracting to Conservancy is possible, then that should be pursued first.
