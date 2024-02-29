@@ -59,7 +59,7 @@ To update any of the email addresses on this list, the CWL project leader should
 
 # Contacting just the CWL leadership team
 
-cwl-leadership@googlegroups.com
+leadership@commonwl.org
 
 # Contacting employees of Conservancy
 
